@@ -1,0 +1,23 @@
+.titre{
+  display:block;
+  background-color:#10456eff;
+  color: white;
+  font-family: Comic Sans Ms;
+}
+
+.titre2{
+  display:block;
+  background-color:green;
+  color: white;
+  margin-top: 100;
+
+}
+.titre2:hover{
+box-shadow: 1px 3px 3px black;
+}
+
+a{
+  font-style: normal;
+  font-family: Comic Sans Ms;
+  text-decoration: none;
+}
